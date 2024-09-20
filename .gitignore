@@ -1,2 +1,7 @@
-*a.out
+build
+out
+.cache
+.idea
+.vs
 .vscode
+*a.out
